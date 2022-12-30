@@ -1,1 +1,1 @@
-# ElasticNet
+# FlexibleNet is a new model that help in reducing the time and resources required to identify specific patterns that resembles the training dataset to classify raw data such as satellite images into qualitative classes
